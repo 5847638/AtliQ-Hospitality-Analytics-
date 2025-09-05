@@ -75,11 +75,13 @@ I built a **Power BI dashboard** that provides:
 
 ---
 
-🚀 How to Use  
+🚀 How to Use :
 
 1. Clone this repository:  
    ```bash
    git clone https://github.com/5847638/AtliQ-Hospitality-Analytics-.git
+
+
 2. Open `AtliQ Hospitality Dashboard.pbix` in **Power BI Desktop**.  
 3. Explore the dashboard using available filters (City, Property, Category, Room Type, Booking Platform, Month, Day).
 
@@ -100,7 +102,8 @@ I built a **Power BI dashboard** that provides:
 🙌 This project strengthened my expertise in **Power BI dashboard design, DAX modeling, SQL handling, and hospitality analytics**, and showcased how **data-driven insights can optimize revenue and occupancy in the hotel industry**.  
 
 🔗 Connect with Me  
-Linkedin:[https://www.linkedin.com/in/k-rajasekhar-74b9531ba/
-Portfoili:[https://codebasics.io/portfolio/K-Rajasekhar]
+
+💼 [LinkedIn](https://www.linkedin.com/in/k-rajasekhar-74b9531ba/)  
+🌐 [Portfolio](https://codebasics.io/portfolio/K-Rajasekhar)  
 
 
